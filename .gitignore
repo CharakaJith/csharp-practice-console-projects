@@ -52,3 +52,20 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Rider and VS Code settings
+.idea/
+.vscode/
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
