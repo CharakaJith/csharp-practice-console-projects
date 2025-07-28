@@ -11,7 +11,7 @@ namespace LibraryManager
 {
     public class LibraryManager
     {
-        List<Book> books = new List<Book>();
+        private List<Book> books = new List<Book>();
         private const string FilePath = "books.json";
 
         public void ViewAllBooks()

@@ -64,7 +64,7 @@ namespace LibraryManager
 
             while (true)
             {
-                Console.Write("\nSelect operation: ");
+                Console.Write("\nselect operation: ");
                 string opt = Console.ReadLine();
 
                 switch (opt)

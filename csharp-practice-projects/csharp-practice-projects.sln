@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManager", "LibraryManager\LibraryManager.csproj", "{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook", "ContactBook\ContactBook.csproj", "{C5C1C784-E790-4BDD-A074-FEF8FD5A63F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C1C784-E790-4BDD-A074-FEF8FD5A63F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C1C784-E790-4BDD-A074-FEF8FD5A63F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C1C784-E790-4BDD-A074-FEF8FD5A63F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C1C784-E790-4BDD-A074-FEF8FD5A63F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
