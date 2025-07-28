@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradebook", "Student
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoList.csproj", "{12E18178-9D64-4769-92D4-362FA0F66EF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManager", "LibraryManager\LibraryManager.csproj", "{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{12E18178-9D64-4769-92D4-362FA0F66EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E18178-9D64-4769-92D4-362FA0F66EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E18178-9D64-4769-92D4-362FA0F66EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6363EDC-9AAC-4713-B40D-7F93F15D37ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -105,11 +105,11 @@ namespace TodoList
                 try
                 {
                     var json = File.ReadAllText(FilePath);
-                    tasks = JsonSerializer.Deserialize<List<Task>>(json) ?? new List<Task>();
+                    this.tasks = JsonSerializer.Deserialize<List<Task>>(json) ?? new List<Task>();
                 }
                 catch
                 {
-                    tasks = new List<Task>();
+                    this.tasks = new List<Task>();
                 }
             }
         }
