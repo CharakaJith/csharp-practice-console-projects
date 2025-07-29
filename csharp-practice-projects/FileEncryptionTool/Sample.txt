@@ -1,0 +1,35 @@
+Meeting Summary - Project Apollo
+Date: July 29, 2025
+Time: 3:00 PM – 4:30 PM
+Location: Conference Room A
+
+Attendees:
+- Alex Johnson
+- Priya Fernando
+- Michael Lee
+- Nadeesha Perera
+
+Agenda:
+1. Project timeline review
+2. Budget adjustments
+3. Resource allocation
+4. Q3 deliverables
+
+Key Points Discussed:
+- The project is on schedule; Phase 2 starts August 10.
+- Budget increase approved by 8% due to additional testing needs.
+- Michael will oversee hardware procurement starting next week.
+- Priya suggested weekly sync meetings every Monday at 10 AM.
+
+Action Items:
+- [ ] Alex to send revised timeline by August 1.
+- [ ] Priya to draft resource plan for review.
+- [ ] Nadeesha to prepare Q3 deliverables checklist.
+- [ ] Michael to finalize vendor shortlist by August 5.
+
+Next Meeting:
+Date: August 12, 2025
+Time: 10:00 AM
+Location: Zoom
+
+Prepared by: Alex Johnson
